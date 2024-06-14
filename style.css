@@ -1,0 +1,38 @@
+body{
+    background-color: #E0FBE2;
+}
+img{
+
+ height: 200px;
+ width: 100%;
+}
+div{
+    background-color: #B0EBB4;
+    margin-left: 25%;
+    width: 50%;
+    border: 10px solid white;
+
+} 
+h1{
+    background-color: #ACE1AF;
+    text-align: center;
+    
+}
+h2,.color{
+ background-color: #BFF6C3;
+ width: 100%;
+}
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #495057;
+  }
+ 
+  
+ body {
+    font-family: "Signika Negative", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 520;
+    font-style: normal;
+  }
